@@ -1,6 +1,7 @@
+
 # Hello 🙋🏽‍♂️
 
-### I'm Pranavan and this is a bit about me: 
+### I'm **Pranavan** and this is a bit about me: 
 
 🎓 A fourth year Computer Science student at the University of Waterloo
 
