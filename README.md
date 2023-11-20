@@ -5,7 +5,7 @@
 
 🎓 A fourth year Computer Science student at the University of Waterloo
 
-👨🏽‍💻 As a Data Science Intern at Wealthsimple
+👨🏽‍💻 Working as a Data Science Intern at Wealthsimple
 
 💡 Interested and learning about NLP, big data pipelines and machine learning techniques
 
