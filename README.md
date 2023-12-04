@@ -10,3 +10,5 @@
 💡 Interested and learning about NLP, big data pipelines and machine learning techniques
 
 📈 Open to exploring full-time opportunities and startup proposals ...
+
+![](https://komarev.com/ghpvc/?username=pranavanp&color=blue)
